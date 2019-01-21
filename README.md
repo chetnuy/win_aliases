@@ -6,4 +6,5 @@ Install aliases for windows
 - Modify aliases in alias.cmd 
 
 
-*It work with far.*  
+*It work with far.
+Varibilies $PATH work on powershell but you can use ps scrip for install alias powershell*  
